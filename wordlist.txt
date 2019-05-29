@@ -50,6 +50,8 @@ admin/cp.php
 admin/cp.html
 cp.php
 cp.html
+loginadmin
+adminlogin
 administrator/
 administrator/index.html
 administrator/index.php
