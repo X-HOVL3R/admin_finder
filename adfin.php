@@ -1,9 +1,9 @@
 <?php
-// Author Name : Mr.cakil
+// Author Name : Rifqi_Gusfiliandi
 // Information List : 4001 list
-// contact here : mrcakil@programmer.net
-// Fb : http://facebook.com/dendisaimam.dendisaimam.1
-// greetz : IndoXploit - AnonCyberTeam - 99syndicate
+// contact here : rifqigusfiliandii@gmail.com
+// WhatsApp : +62 852-2015-1889
+// Thanks To :Sunda Cyber Army
 
 print "   
 	
@@ -14,14 +14,14 @@ print "
 ██║  ██║██████╔╝██║ ╚═╝ ██║██║██║ ╚████║    ██║     ██║██║ ╚████║██████╔╝███████╗██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                                                          
-                Admin Finder - coded by ./Mr.cakil
-  Information list : 4001 list
-  Thanks to  :IndoXploit - AnonCyberTeam - 99syndicate
+                Admin Finder - coded by Rifqi_Gusfiliandi
+  Information list : 4008 list
+  Thanks to  :Sunda Cyber Army
 ";
 
 echo "masukan site  : ";
 $target = trim(fgets(STDIN));
-$list = "cakil_wordlist.txt";
+$list = "wordlist.txt";
 if(!preg_match("/^http:\/\//",$target) AND !preg_match("/^https:\/\//",$target)){
 	$targetnya = "http://$target";
 }else{
