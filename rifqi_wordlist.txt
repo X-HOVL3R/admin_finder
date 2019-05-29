@@ -2,6 +2,14 @@ admin
 adm
 admincp
 admcp
+admin.php
+wp-admin
+adminweb
+admin12345
+admin1234
+admin123
+administrator
+redaktur
 cp
 modcp
 moderatorcp
